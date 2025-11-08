@@ -1,0 +1,144 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Mahadi Hasan",
+      "specialty": "Cardiologist",
+      "hospital": "City Heart Hospital",
+      "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Tasfayee Rahman",
+      "specialty": "Dermatologist",
+      "hospital": "Skin Care Clinic",
+      "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
+    },
+     {
+      "id": 3,
+      "name": "Dr. Mahadi Hasan",
+      "specialty": "Cardiologist",
+      "hospital": "City Heart Hospital",
+      "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Tasfayee Rahman",
+      "specialty": "Dermatologist",
+      "hospital": "Skin Care Clinic",
+      "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
+    },
+     {
+      "id": 1,
+      "name": "Dr. Mahadi Hasan",
+      "specialty": "Cardiologist",
+      "hospital": "City Heart Hospital",
+      "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Tasfayee Rahman",
+      "specialty": "Dermatologist",
+      "hospital": "Skin Care Clinic",
+      "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
+    },
+     {
+      "id": 3,
+      "name": "Dr. Mahadi Hasan",
+      "specialty": "Cardiologist",
+      "hospital": "City Heart Hospital",
+      "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Tasfayee Rahman",
+      "specialty": "Dermatologist",
+      "hospital": "Skin Care Clinic",
+      "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
+    }
+  ],
+
+  "diagnosticTests": [
+    {
+      "id": 1,
+      "name": "Blood Test",
+      "price": 500,
+      "description": "Complete blood count"
+    },
+    {
+      "id": 2,
+      "name": "X-Ray",
+      "price": 1000,
+      "description": "Chest and limb X-Ray"
+    },
+    {
+  "id": 3,
+  "name": "Urine Test",
+  "price": 300,
+  "description": "Routine urine analysis"
+},
+{
+  "id": 4,
+  "name": "ECG",
+  "price": 700,
+  "description": "Electrocardiogram to check heart rhythm"
+},
+{
+  "id": 5,
+  "name": "Ultrasound",
+  "price": 1200,
+  "description": "Abdominal ultrasound imaging"
+},
+{
+  "id": 6,
+  "name": "MRI Scan",
+  "price": 8000,
+  "description": "Detailed imaging of internal organs"
+},
+{
+  "id": 7,
+  "name": "COVID-19 Test",
+  "price": 1000,
+  "description": "PCR test for COVID-19 detection"
+},
+{
+  "id": 8,
+  "name": "Blood Sugar Test",
+  "price": 400,
+  "description": "Fasting and post-meal glucose levels"
+},
+{
+  "id": 9,
+  "name": "Lipid Profile",
+  "price": 900,
+  "description": "Cholesterol and triglyceride levels"
+},
+{
+  "id": 10,
+  "name": "Thyroid Test",
+  "price": 1100,
+  "description": "TSH, T3, and T4 hormone measurement"
+}
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Mahadi Matin",
+      "email": "mahadi@example.com",
+      "role": "User"
+    },
+    {
+      "id": 2,
+      "name": "Nafis Rahman",
+      "email": "nafis@example.com",
+      "role": "User"
+    },
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "role": "Admin"
+    }
+  ]
+}
