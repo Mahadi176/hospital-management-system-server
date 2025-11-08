@@ -2,7 +2,7 @@
   "doctors": [
     {
       "id": 1,
-      "name": "Dr. Mahadi Hasan",
+      "name": "Dr. Ashikuzzaman",
       "specialty": "Cardiologist",
       "hospital": "City Heart Hospital",
       "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
@@ -16,43 +16,50 @@
     },
      {
       "id": 3,
-      "name": "Dr. Mahadi Hasan",
-      "specialty": "Cardiologist",
+      "name": "Dr. Abedul Islam",
+      "specialty": "Urologist",
       "hospital": "City Heart Hospital",
       "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
     },
     {
       "id": 4,
-      "name": "Dr. Tasfayee Rahman",
-      "specialty": "Dermatologist",
+      "name": "Dr. Nfisa Tasnim",
+      "specialty": "ENT",
       "hospital": "Skin Care Clinic",
       "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
     },
      {
-      "id": 1,
-      "name": "Dr. Mahadi Hasan",
-      "specialty": "Cardiologist",
+      "id": 5,
+      "name": "Dr. Rafid Hasan",
+      "specialty": "Neurologist",
       "hospital": "City Heart Hospital",
       "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
     },
     {
-      "id": 2,
-      "name": "Dr. Tasfayee Rahman",
-      "specialty": "Dermatologist",
+      "id": 6,
+      "name": "Dr. Rokeya Rahman",
+      "specialty": "Endrologist",
       "hospital": "Skin Care Clinic",
       "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
     },
      {
-      "id": 3,
-      "name": "Dr. Mahadi Hasan",
-      "specialty": "Cardiologist",
+      "id": 7,
+      "name": "Dr. Altaf Uddin",
+      "specialty": "Orthopedics",
       "hospital": "City Heart Hospital",
       "image": "https://i.ibb.co.com/6JbfDsv5/Walter-White-S5-B.png"
     },
     {
-      "id": 4,
-      "name": "Dr. Tasfayee Rahman",
-      "specialty": "Dermatologist",
+      "id": 8,
+      "name": "Dr. Jasmine Chowdhury",
+      "specialty": "Medicine",
+      "hospital": "Skin Care Clinic",
+      "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Abdul Bashar",
+      "specialty": "Neuclear Medicine",
       "hospital": "Skin Care Clinic",
       "image": "https://i.ibb.co.com/ymvRqDGQ/imgi-96-latest.png"
     }
@@ -130,12 +137,12 @@
     },
     {
       "id": 2,
-      "name": "Nafis Rahman",
-      "email": "nafis@example.com",
+      "name": "Mehadi Hasan",
+      "email": "mehadi@example.com",
       "role": "User"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Admin",
       "email": "admin@gmail.com",
       "role": "Admin"
