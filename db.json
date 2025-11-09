@@ -125,6 +125,66 @@
   "name": "Thyroid Test",
   "price": 1100,
   "description": "TSH, T3, and T4 hormone measurement"
+},
+ {
+      "id": 11,
+      "name": "Testosterone",
+      "price": 500,
+      "description": "Complete blood count"
+    },
+    {
+      "id": 12,
+      "name": "Prolactine",
+      "price": 100,
+      "description": "Chest and limb X-Ray"
+    },
+    {
+  "id": 13,
+  "name": "Endorsecopy",
+  "price": 1600,
+  "description": "Routine urine analysis"
+},
+{
+  "id": 14,
+  "name": "Dengue",
+  "price": 250,
+  "description": "Electrocardiogram to check heart rhythm"
+},
+{
+  "id": 15,
+  "name": "HIV",
+  "price": 400,
+  "description": "Abdominal ultrasound imaging"
+},
+{
+  "id": 16,
+  "name": "Color Doppler",
+  "price": 700,
+  "description": "Detailed imaging of internal organs"
+},
+{
+  "id": 17,
+  "name": "CBC",
+  "price": 100,
+  "description": "PCR test for COVID-19 detection"
+},
+{
+  "id": 18,
+  "name": "Hormone",
+  "price": 120,
+  "description": "Fasting and post-meal glucose levels"
+},
+{
+  "id": 19,
+  "name": "SDFA",
+  "price": 930,
+  "description": "Cholesterol and triglyceride levels"
+},
+{
+  "id": 20,
+  "name": "Tissue Culture",
+  "price": 2100,
+  "description": "TSH, T3, and T4 hormone measurement"
 }
   ],
 
